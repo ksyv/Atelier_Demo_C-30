@@ -1,0 +1,12 @@
+{
+  "name": "atelier-recursivite",
+  "version": "1.0.0",
+  "description": "Démo et exercices sur la récursivité",
+  "scripts": {
+    "demo:bases": "node 01-bases.js",
+    "demo:pratique": "node 02-cas-pratique.js",
+    "exo:correction": "node 03-exercice.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
