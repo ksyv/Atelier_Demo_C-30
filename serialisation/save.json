@@ -1,0 +1,10 @@
+{
+    "player_name": "Arthur",
+    "level": 5,
+    "inventory": [
+        "Epee",
+        "Potion de soin",
+        "Bouclier"
+    ],
+    "is-alive": true
+}

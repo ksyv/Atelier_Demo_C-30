@@ -1,0 +1,4 @@
+---Registre de l'Auberge ---
+Client : Arthur le Guerrier
+Nouveau client : Merlin le Mage
+Nouveau client : Lancelot le Chevalier
